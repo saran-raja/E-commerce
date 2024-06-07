@@ -1,0 +1,27 @@
+.about-container {
+  max-width: 800px;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.section p {
+  color: #666;
+  font-size: 16px;
+}
+
+.shop-now {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+.price {
+  margin-top: 50px;
+}

@@ -1,0 +1,19 @@
+.cartimg{
+width: 90px;
+height: 100px;
+margin-left: 10px;
+/* height: 100%; */
+}
+.total{
+    
+    padding: 12px;
+    background-color: rgb(198, 193, 193);
+    
+}
+.total p{
+    font-weight: 100px;
+    font-size: 20px;
+}
+.cart-display{
+    padding: 19px;
+}

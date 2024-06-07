@@ -1,0 +1,218 @@
+{
+  "mobiles": [
+    {
+      "id": "1",
+      "title": "Redmi 13C (Starfrost White, 6GB RAM, 128GB Storage)",
+      "image": "https://m.media-amazon.com/images/I/71scmEdSC2L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "10240",
+      "discount": "0.1"
+    },
+    {
+      "id": "2",
+      "title": "Apple iPhone 15 (128 GB) - Black",
+      "image": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "92100",
+      "discount": "0.22"
+    },
+
+    {
+      "id": "3",
+      "title": "Samsung Galaxy M34 5G (Prism Silver,6GB,128GB)|120Hz sAMOLED Display|50MP Triple No Shake Cam",
+      "image": "https://m.media-amazon.com/images/I/91ItZJh1FDL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "16999",
+      "discount": "0.2"
+    },
+    {
+      "id": "4",
+      "title": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 8GB RAM, 256GB Storage)",
+      "image": "https://m.media-amazon.com/images/I/61LB+d0vheL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "18999",
+      "discount": "0.19"
+    },
+    {
+      "id": "5",
+      "title": "iQOO Z6 Lite 5G (Stellar Green, 6GB RAM, 128GB Storage) with Charger | Qualcomm Snapdragon 4 Gen 1 Processor ",
+      "image": "https://m.media-amazon.com/images/I/61VbKHdE0rL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "11999",
+      "discount": "0.13"
+    },
+
+    {
+      "id": "6",
+      "title": "realme narzo N53 (Feather Black, 4GB+64GB) 33W Segment Fastest Charging | Slim Smartphone | 90 Hz Smooth Display",
+      "image": "https://m.media-amazon.com/images/I/71DSxfKzkJL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "7499",
+      "discount": "0.2"
+    },
+    {
+      "id": "7",
+      "title": "realme NARZO 70 Pro 5G (Glass Green, 8GB RAM,128GB Storage) Dimensity 7050 5G Chipset | Horizon Glass Design | Segment 1st Flagship Sony IMX890 OIS Camera",
+      "image": "https://m.media-amazon.com/images/I/71-ZHpmFzDL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "19999",
+      "discount": "0.2"
+    },
+    {
+      "id": "8",
+      "title": "realme narzo N53 (Feather Black, 4GB+64GB) 33W Segment Fastest Charging | Slim Smartphone | 90 Hz Smooth Display",
+      "image": "https://m.media-amazon.com/images/I/71DSxfKzkJL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "7499",
+      "discount": "0.2"
+    }
+  ],
+  "electronics": [
+    {
+      "id": "1",
+      "title": "Canon PIXMA E477 All in One (Print, Scan, Copy) WiFi Ink Efficient Colour Printer for Home/Student",
+      "image": "https://m.media-amazon.com/images/I/51klz5w3beL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "5499",
+      "discount": "0.2"
+    },
+    {
+      "id": "2",
+      "title": "IMOU 360° 1080P Full HD Security Camera, Human Detection, Motion Tracking, 2-Way Audio, Night Vision",
+      "image": "https://m.media-amazon.com/images/I/51HdC2UqaLL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "1475",
+      "discount": "0.2"
+    },
+    {
+      "id": "3",
+      "title": "HAVELLS 9w LED Bulb for Home & Office |B22 LED Bulb Base |Cool Day White Light (6500K) ",
+      "image": "https://m.media-amazon.com/images/I/61FdvLeUYtL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "69",
+      "discount": "0.2"
+    },
+    {
+      "id": "4",
+      "title": "ZEBRONICS THUNDER Bluetooth 5.3 Wireless Headphones with 60H Backup, Gaming Mode, Dual Pairing",
+      "image": "https://m.media-amazon.com/images/I/61s-3q6CYxL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "749",
+      "discount": "0.2"
+    },
+    {
+      "id": "5",
+      "title": "boAt Rockerz 255 Pro+ Bluetooth Wireless in Ear Earphones with Upto 60 Hours Playback, ASAP Charge, IPX7",
+      "image": "https://m.media-amazon.com/images/I/61Y5bINWmZL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "1299",
+      "discount": "0.2"
+    },
+    {
+      "id": "6",
+      "title": "Acnos® Brand Premium 7 Colors Strap Display Fashionable Children Kids Digital Watches Waterproof",
+      "image": "https://m.media-amazon.com/images/I/51mFK8zd17L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "1299",
+      "discount": "0.2"
+    },
+    {
+      "id": "7",
+      "title": "Boult Audio Z60 Truly Wireless in Ear Earbuds with 60H Playtime, 4 Mics ENC Clear Calling, 50ms Low Latency",
+      "image": "https://m.media-amazon.com/images/I/71efTn0Ea-L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "1299",
+      "discount": "0.2"
+    },
+    {
+      "id": "8",
+      "title": "Samsung EVO Plus 64GB microSDXC UHS-I U1 130MB/s Full HD & 4K UHD Memory Card with Adapter",
+      "image": "https://m.media-amazon.com/images/I/61rnCkrurxL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "745",
+      "discount": "0.2"
+    }
+  ],
+  "laptops": [
+    {
+      "id": "1",
+      "title": "Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX Processor, 16GB DDR5, 1TB, NVIDIA RTX 3050,6GB GDDR6, 15.6 (39.62cm) FHD 120Hz 250 nits, Backlit KB Orange,Win 11 + MSO'21, Dark Shadow Gray, 2.65kg",
+      "image": "https://m.media-amazon.com/images/I/61JQvK1EbwL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "79990",
+      "discount": "0.2"
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy Book2 (NP750) Intel 12th Gen core i5 39.6cm (15.6) FHD Thin & Light Laptop (8 GB/512 GB/Windows 11/MS Office/Backlit Keyboard/Finger Print Reader/Silver/1.55Kg), NP750XED-KC1IN",
+      "image": "https://m.media-amazon.com/images/I/71VETao+NEL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "49990 ",
+      "discount": "0.2"
+    },
+    {
+      "id": "3",
+      "title": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+      "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "73990",
+      "discount": "0.2"
+    },
+    {
+      "id": "4",
+      "title": "Lenovo LOQ 12th Gen Intel Core i5-12450HX 15.6 (39.6cm) 144Hz 300Nits FHD Gaming Laptop (16GB/512GB SSD/Win 11/NVDIA RTX 3050 6GB Graphics/100% sRGB/Office 21/3 Mon Game Pass/Grey/2.4Kg), 83GS003UIN",
+      "image": "https://m.media-amazon.com/images/I/81tmCrtiRgL._AC_UY327_QL65_.jpg",
+      "price": "69990 ",
+      "discount": "0.2"
+    }
+  ],
+  "televisions": [
+    {
+      "id": "1",
+      "title": "Xiaomi 108 cm (43 inches) X Series 4K Ultra HD Smart Google TV L43M8-A2IN (Black)",
+      "image": "https://m.media-amazon.com/images/I/71L+JnVXFTL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "25999",
+      "discount": "0.2"
+    },
+    {
+      "id": "2",
+      "title": "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74L (Black)",
+      "image": "https://m.media-amazon.com/images/I/81MRU+3RJLL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "55990",
+      "discount": "0.2"
+    },
+    {
+      "id": "3",
+      "title": "Samsung 80 cm (32 inches) HD Ready Smart LED TV UA32T4380AKXXL (Glossy Black) ",
+      "image": "https://m.media-amazon.com/images/I/71S8iUPW9bL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "11990",
+      "discount": "0.2"
+    },
+    {
+      "id": "4",
+      "title": "VU 126 cm (50 inches) The GloLED Series 4K Smart LED Google TV 50GloLED (Grey)",
+      "image": "https://m.media-amazon.com/images/I/71ep8pVlgyL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "32999",
+      "discount": "0.2"
+    },
+    {
+      "id": "5",
+      "title": "LG 126 cm (50 inches) 4K Ultra HD Smart LED TV 50UR7500PSC (Dark Iron Gray)",
+      "image": "https://m.media-amazon.com/images/I/8195aYGDl9L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "40990",
+      "discount": "0.2"
+    },
+    {
+      "id": "6",
+      "title": "Acer 100 cm (40 inches) Advanced I Series Full HD Smart LED Google TV AR40GR2841FDFL (Black)",
+      "image": "https://m.media-amazon.com/images/I/5126gXnEjFL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": "16999",
+      "discount": "0.2"
+    },
+    {
+      "id": "7",
+      "title": "iFFALCON 138.7 cm (55 inches) 4K Ultra HD Smart LED Google TV iFF55U62 (Black)",
+      "image": "https://m.media-amazon.com/images/I/71w49hsBwvL._AC_UY327_QL65_.jpg",
+      "price": "26990",
+      "discount": "0.2"
+    },
+    {
+      "id": "8",
+      "title": "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74K (Black)",
+      "image": "https://m.media-amazon.com/images/I/81P6YFm57TL._AC_UY327_QL65_.jpg",
+      "price": "52490",
+      "discount": "0.2"
+    }
+  ],
+  "login": [
+    {
+      "username": "saran",
+      "password": "saran123"
+    },
+    {
+      "username": "harish",
+      "password": "harish123"
+    }
+  ]
+}
